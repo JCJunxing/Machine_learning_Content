@@ -13,7 +13,7 @@ The shift in popularity from boosting models to neural networks, particularly in
 The popularity of neural networks has surged with the increase in computational power, primarily due to two reasons:
 
 * **Scalability**: Neural networks, especially deep learning models like those used in LLMs, are highly scalable. They benefit significantly from parallel processing, particularly on GPUs and specialized hardware like TPUs. This ability to leverage large-scale hardware allows them to process vast amounts of data and complex models that were not feasible a decade ago.
-Data Handling Capability: Unlike boosting methods that typically excel with structured data, neural networks are adept at handling unstructured data like text, images, and videos. The digital age has seen an explosion in this kind of data, which has naturally led to a higher adoption of neural networks, spurred further by the efficiencies and capabilities demonstrated by LLMs.
+* **Data Handling Capability**: Unlike boosting methods that typically excel with structured data, neural networks are adept at handling unstructured data like text, images, and videos. The digital age has seen an explosion in this kind of data, which has naturally led to a higher adoption of neural networks, spurred further by the efficiencies and capabilities demonstrated by LLMs.
 
 ## Future Expectations
 
