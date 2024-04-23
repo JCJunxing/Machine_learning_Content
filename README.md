@@ -23,7 +23,7 @@ Feel free to contribute to this repository by adding your own machine learning c
 This repository is licensed under the [MIT License](LICENSE). Feel free to use the content for personal or commercial purposes, with attribution.
 
 ## Feedback
-If you have any feedback, suggestions, or questions, please don't hesitate to [reach out](mailto:youremail@example.com). Your input is valuable in making this repository a valuable resource for the machine learning community.
+If you have any feedback, suggestions, or questions, please don't hesitate to [reach out](mailto:yxzhhw@gmail.com). Your input is valuable in making this repository a valuable resource for the machine learning community.
 
 Happy learning and exploring!
 
